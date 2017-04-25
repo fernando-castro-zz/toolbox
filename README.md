@@ -1,9 +1,4 @@
 # toolbox
-Workflow &amp; 
-related things
+Workflow and related things
 
-temp 
-file 
-for 
-future 
-use
+study 
